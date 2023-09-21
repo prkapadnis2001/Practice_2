@@ -1,0 +1,6 @@
+1] Git Restore:
+    This command is used to unstage changes that you have previously added in the stagging area.
+
+2] Git log:
+    This is command is used to the see the history of the Commits.
+
