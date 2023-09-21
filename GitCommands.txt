@@ -1,10 +1,10 @@
-1] Git Restore:
+1] git Restore:
     This command is used to unstage changes that you have previously added in the stagging area.
 
-2] Git log:
+2] git log:
     This is command is used to the see the history of the Commits.
 
-3] Git branch <branch Name>
+3] git branch <branch Name>
     This command is used to create a new branch.
 
 4] git checkout <branch Name>
